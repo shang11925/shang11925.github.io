@@ -1,0 +1,27 @@
+tail{
+    display: flex;
+}
+.Status-bottom{
+    width: 100%;
+}
+.Status-bottom ul{
+    display: flex;
+    justify-content: center;
+    align-items: end;
+}
+.by:hover {
+    width: 50px;
+}
+
+.Status-bottom li {
+    display: inline-block; 
+    list-style: none;
+    height: 60px;
+    line-height: 60px;
+    padding: 0 40px;
+ }
+.by{
+    margin: 20px;
+    width: 30px;
+   
+ }
